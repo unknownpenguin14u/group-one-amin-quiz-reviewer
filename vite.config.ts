@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/group-one-amin-quiz-reviewer/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
