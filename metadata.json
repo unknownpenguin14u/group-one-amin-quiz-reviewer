@@ -1,0 +1,6 @@
+{
+  "name": "Group One Amin Quiz Reviewer",
+  "description": "A professional blue-themed Bible quiz reviewer for Matthew Chapters 6–10 designed for Group One Amin, featuring instant automatic correction, Multiple Choice, True or False, Identification, Voice read-aloud, and Voice of Customer (VoC) feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
